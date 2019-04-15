@@ -1,0 +1,19 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "gallery": [{
+    "title": "Easy",
+    "copy": "Automated schema and code generation.",
+    "image": "../images/gallery/react-context.jpg"
+  },
+  {
+    "title": "Fast",
+    "copy": "Built for real-time apps.",
+    "image": "../images/gallery/page-transitions.jpg"
+  },
+  {
+    "title": "Robust",
+    "copy": "Tested under high concurrency.",
+    "image": "../images/gallery/intersection-observer.jpg"
+  }]
+}

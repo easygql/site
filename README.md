@@ -1,1 +1,1 @@
-# easygql.github.io
+# Easy GraphQL
