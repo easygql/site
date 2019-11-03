@@ -45,7 +45,7 @@ export default class Modal extends PureComponent {
 
     return (
       <>
-        <Button onClick={showModal}>Getting started</Button>
+        <Button onClick={() => window.open('https://easygql.github.io/doc/')}>Getting started</Button>
 
         <Dialog isOpen={open}>
           <Close onClick={hideModal}>
